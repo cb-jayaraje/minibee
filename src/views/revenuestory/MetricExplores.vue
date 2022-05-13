@@ -1,0 +1,4 @@
+
+<template>
+    Metric Explorer
+</template>

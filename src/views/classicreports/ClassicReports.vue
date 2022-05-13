@@ -1,0 +1,3 @@
+<template>
+    Classic Reports
+</template>

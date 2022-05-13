@@ -1,0 +1,3 @@
+<template>
+    Accounting Reports
+</template>
